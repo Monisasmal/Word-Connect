@@ -1,0 +1,25 @@
+.leaderboard-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.leaderboard-container h2 {
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+}
+
+@media (max-width: 700px) {
+  .leaderboard-container {
+    margin: 20px;
+    padding: 15px;
+  }
+
+  .leaderboard-container h2 {
+    font-size: 1.5rem;
+  }
+}
