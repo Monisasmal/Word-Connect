@@ -37,3 +37,22 @@ User can choose difficulty:
 - Pure CSS design (no UI library)
 
 ### 🛠️ Tech Stack
+
+| Tool            | Used For                                    |
+| --------------- | ------------------------------------------- |
+| React           | UI & Components                             |
+| React Router    | Page routing (Dashboard, Game, Leaderboard) |
+| Plain CSS       | Styling                                     |
+| Local Data File | Word pairs dataset                          |
+| React-ChartJS   | Graphs & analytics                          |
+
+### Screen shots
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/e66495df-0b76-450d-8268-c6434c497494" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/bec5cfbb-6a00-4d24-82a6-d50ae481b008" />
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/db64d9dd-863f-4b6e-b9a3-5b1461cfd70a" />
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/90081f99-d588-4110-8303-5dcb60b4b02e" />
+
+
+
+
+
