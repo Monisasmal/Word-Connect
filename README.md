@@ -5,6 +5,8 @@ The goal is to match two related words (e.g., Country ↔ Capital, Related Conce
 
 This project tests vocabulary, general knowledge, and logical thinking.
 
+👉 **Live Demo:** [Word Connecting Game](https://word-connect-flame.vercel.app/play)
+
 ### 🎮 Game Concept
 
 You will be shown a grid of words.
